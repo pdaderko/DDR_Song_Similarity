@@ -1,4 +1,4 @@
-# Creates a .csv file with a list of songs most similar to corresponding song.
+# Creates a .csv file with a list of songs most similar to the corresponding song, for all songs in the library.
 # Uses AudioMuse-AI API to determine music similarity.  Requires .csv file with song library information.
 # Tested with Navidrome to serve music to AudioMuse-AI, and for the database to generate the master .csv file.
 
